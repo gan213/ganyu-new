@@ -1,0 +1,42 @@
+<html>
+   <head>
+	<body background=01.jpg>
+     <title>HTML自我介紹</title>
+<style>
+       
+       body{color:blue;}
+    </style>
+<table border=0>
+<tr>
+<td align="center">基本資料</td>
+<td align="center">個人愛好</td>
+<td align="center">優點</td>
+<td align="center">缺點</td>
+</tr>
+</table>
+  </head>  
+   <body bgcolor="#dddddd">
+       <h1>基本資料</h1> <hr>
+          <font color="#ffbbbb"><u>名字：陳冠諭</u> <br></font>
+          <i>生日：94/02/13</i> <br>
+	<marquee>水瓶座</marquee>
+          <b>姓氏：男性</b> <br> 
+ 	   <b><h2>學歷</h2></b>
+<div style="background-color:#eeee00" width:10% padding：50 50 50 50>
+<b><h3>國小:世界國小<h3/></b>
+<b><h3>國中:宇宙國中<h3/></b>
+<b><h3>高中:高雄高商<h3/></b>
+</div>
+       </p>
+       <hr>
+<h1>個人愛好</h1>
+<p>
+ <a href="https://zh.m.wikipedia.org/zh-tw/%E5%92%92%E8%A1%93%E8%BF%B4%E6%88%B0
+">
+最愛看的東東</a>
+<h1>優點</h1>
+<iframe name="f1" src="file:///C:/Users/User/OneDrive/%E6%A1%8C%E9%9D%A2/%E5%B5%8C%E5%85%A5.html" width=400 height="400" scrolling="auto" frameborder="0">
+</iframe>
+</p>
+    </body>
+</html>
